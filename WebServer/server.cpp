@@ -1,6 +1,7 @@
 #include "server.h"
 #include "response.h"
 
+
 void main()
 {
 	struct SocketState sockets[MAX_SOCKETS] = { 0 };
